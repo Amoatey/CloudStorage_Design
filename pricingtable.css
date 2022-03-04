@@ -1,9 +1,29 @@
-body{
-    background-color:aqua
+
    
-    
-}
 .Heading{
     color: blue;
-    text-align:center ;
+    text-align: center;
+    margin-top:1%
+    
+    
+}
+
+
+body{
+background-color: aqua;  
+
+}
+
+.child{
+    position: absolute;
+    background-color: #f9f6ee;
+    width: 950px;
+    top: 10%;
+    left: 15%;
+    height: 80%;    
+}
+
+.IMAGES{ 
+    display: ;
+
 }
