@@ -24,6 +24,20 @@ background-color: aqua;
 }
 
 .IMAGES{ 
-    display: ;
+   display: flex;  
+    margin: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    gap: 75px; 
+}
+
+
+h3 {text-align: center;
+     color: #828282
+}
+
+.Packages{ color: blue;
+    
 
 }
+
