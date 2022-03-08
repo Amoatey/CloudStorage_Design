@@ -33,11 +33,19 @@ background-color: aqua;
 
 
 h3 {text-align: center;
-     color: #828282
+     color: #c4b1b1
 }
 
 .Packages{ color: blue;
-    
+    font-weight: bold;
+    font-size: x-small;
+}
+
+p{color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+
 
 }
 
